@@ -7,6 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on **Spring Boot and Microservices**
+
+- 🌱 I’m currently learning **Microservices, Kafka, AWS and RabbitMQ**
+
+- 👯 I’m looking to collaborate on **Java Full Stack Projects**
+
+- 🤝 I’m looking for help with **My Microservice Project**
+
+- 💬 Ask me about **Java, Java8, Spring, Spring Boot, Microservices, Hibernate, Mysql, Postgres,**
+
+- 📫 How to reach me **suyashkumarwaghmare@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
