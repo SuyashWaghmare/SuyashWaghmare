@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **My Microservice Project**
 
-- 💬 Ask me about **Java, Java8, Spring, Spring Boot, Microservices, Hibernate, Mysql, Postgres,**
+- 💬 Ask me about **Java, Java8, Spring, Spring Boot, Microservices, Hibernate, JDBC, Mysql and Postgres**
 
 - 📫 How to reach me **suyashkumarwaghmare@gmail.com**
 
