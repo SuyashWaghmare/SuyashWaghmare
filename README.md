@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suyash Waghmare</h1>
-<h3 align="center">A passionate Java Full Stack Developer from India</h3>
+<h3 align="center">Java Full Stack Developer, blending backend mastery with sleek front-end finesse.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyashwaghmare&label=Profile%20views&color=0e75b6&style=flat" alt="suyashwaghmare" /> </p>
 
