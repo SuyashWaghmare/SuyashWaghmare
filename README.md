@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Spring Boot and Microservices**
 
-- 🌱 I’m currently learning **Microservices, Kafka, AWS, and RabbitMQ**
+- 🌱 I’m currently learning **Microservices, Kafka**
 
 - 👯 I’m looking to collaborate on **Java Full Stack Projects**
 
