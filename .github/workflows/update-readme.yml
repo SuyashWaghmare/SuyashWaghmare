@@ -1,0 +1,23 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README with latest stats
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: |
+          curl -o README.md -L "https://github-readme-stats.vercel.app/api/top-langs?username=suyashwaghmare&show_icons=true&layout=compact&theme=radical&token=$ACCESS_TOKEN"
+          curl -o README.md -L "https://github-readme-stats.vercel.app/api?username=suyashwaghmare&show_icons=true&theme=radical&token=$ACCESS_TOKEN"
+          git add README.md
+          git commit -m "Update README with latest stats"
+          git push
