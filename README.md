@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=suyashwaghmare&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
+<p align="center">     
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=suyashwaghmare&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
   </a>
@@ -23,7 +23,14 @@
 
 - 💬 Ask me about **Java, Java 8, Spring, Spring Boot, Microservices, Hibernate, JDBC, MySQL, and PostgreSQL**
 
-- 📫 How to reach me: **suyashkumarwaghmare@gmail.com**
+<div align="center" style="margin-top: 20px;">
+  <p style="font-size: 18px;">📸 How to reach me:</p>
+  <a href="https://www.instagram.com/the_rogue_prince7/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Follow%20on%20Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+
 
 ---
 
